@@ -1,16 +1,39 @@
-## Hi there 👋
+# Hi 👋, I'm Vivek
 
-<!--
-**VivekMB03/VivekMB03** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+💻 Aspiring Python Developer & Software Engineer  
+📍 Based in Bengaluru, India  
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🔹 About Me
+- 🎓 Fresher with strong interest in Software Development
+- 🐍 Skilled in Python, SQL, and Data Analysis
+- ⚡ Passionate about solving real-world problems using code
+- 📚 Currently learning Data Structures & Backend Development
+
+---
+
+## 🔹 Skills
+- Programming: Python, SQL
+- Tools: Git, GitHub, VS Code
+- Concepts: Data Structures, OOPs
+- Others: Problem Solving, Debugging
+
+---
+
+## 🔹 Projects
+- 📊 Data Analysis Project using Python & Pandas
+- 🧠 Problem Solving (DSA Practice)
+- 🌐 Basic Web/Backend Projects 
+
+---
+
+## 🔹 Goals
+- Become a Software Engineer
+- Build scalable Python applications
+- Contribute to open-source projects
+
+---
+
+## 🔹 Connect with Me
+- LinkedIn: www.linkedin.com/in/vivek-m-b-mj
